@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "417a5c76-a762-42a9-9ded-b1e2c6509c96",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdX3aIa.webp",
+	 "title": "Play GETTA 5",
+	 "text": "Take a leisurely drive or walk through the expansive map of Los Santos. Discover hidden locations, enjoy the scenery, and stumble upon interesting encounters",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdX35kF.webp",
+	 "title": "Play GETTA 5",
+	 "text": "Create a character and immerse yourself in roleplaying scenarios. You could be a law-abiding citizen, a criminal mastermind, or even an emergency service worker. Join online roleplaying servers for a more immersive experience.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdX3TrB.webp",
+	 "title": "Play GETTA 5",
+	 "text": "Test your driving and flying skills by creating and attempting stunt challenges. Use ramps, buildings, and other structures to perform incredible tricks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdX3AdP.webp",
+	 "title": "Play GETTA 5",
+	 "text": " Plan and execute elaborate heists with your friends or AI companions. Challenge yourself to complete heists without being detected or causing any casualties",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdX3R71.webp",
+	 "title": "Play GETTA 5",
+	 "text": "Capture the beauty of Los Santos through the lens of your in-game camera. Create a virtual photo album of interesting locations, events, and characters.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdX37mg.webp",
+	 "title": "Play GETTA 5",
+	 "text": " Spend time in Los Santos Custom shops and modify your vehicles to perfection. Create unique and customized cars, motorcycles, and even bicycles",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
